@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "boundry",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 8 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 33.722868044042912, 30.775039039537536 ], [ 33.722464499601323, 30.213574206460457 ], [ 33.11660977794844, 30.213574206460457 ], [ 33.113919481671118, 30.775846128420724 ], [ 33.722868044042912, 30.775039039537536 ] ] ] ] } }
+]
+}
