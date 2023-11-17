@@ -1,5 +1,5 @@
 Least Shortest Smoothest Path
-This Streamlit application calculates the least, shortest, and smoothest path between two points while incorporating geospatial data and weather information.
+This application calculates the least, shortest, and smoothest path between two points while incorporating geospatial data and weather information.
 
 Features
 Weather Data: Provides current weather information for a specified city.
