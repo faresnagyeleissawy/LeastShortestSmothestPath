@@ -184,8 +184,7 @@ with st.sidebar:
         getLocationWeather(city)
     startCoords = extractNumbers(st.text_input("Start Point X,Y "))
     stopCoords = extractNumbers(st.text_input("End Point X,Y "))
-    startCoords =(33.26444075788752, 30.480550154320991)
-    stopCoords = (33.629665637860086, 30.633987825788754)
+    
     buffer_dis = st.number_input(('Distanc KM'))/111.32  
     if startCoords and stopCoords:
             if st.button('Generate Line'):
